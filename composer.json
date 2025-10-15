@@ -1,11 +1,11 @@
 {
-    "name": "benixal/my-lib",
+    "name": "santug/my-lib",
     "description": "Just for develop",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Benixal\\MyLib\\": "src/"
+            "Santug\\MyLib\\": "src/"
         }
     },
     "authors": [

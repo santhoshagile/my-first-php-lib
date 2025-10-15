@@ -1,11 +1,11 @@
 <?php
 
-namespace Benixal\MyLib;
+namespace Santug\MyLib;
 
 class ThisIsSantu {
 
     function sayHello(){
-        return "Hello ->" .rand(0,10000);
+        return "Hello from your custom Laravel package!";
         
     }
 
