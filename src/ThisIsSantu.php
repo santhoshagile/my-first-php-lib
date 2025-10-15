@@ -1,6 +1,6 @@
 <?php
 
-namespace Benixal\MyLib;
+namespace Santug\MyLib;
 
 class ThisIsSantu {
 
